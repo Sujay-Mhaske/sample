@@ -37,6 +37,9 @@ a:visited {
 
 header {
     width: 100%;
+    left: 0;
+    right: 0;
+
     height: 60px;
     display: flex;
     justify-content: center;
